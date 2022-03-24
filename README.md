@@ -1,2 +1,2 @@
 My first readme
-my first coommit on git hub
+my first commit on git hub
